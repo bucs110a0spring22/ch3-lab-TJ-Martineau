@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program when run shows two turtles racing towards a finish line, each turtle going at a non-constant and random speed.
+
+When done, a triangle, square, hexagon, nonagon, and dodecagon is generated on screen from a turtle. The user is then prompted to enter two numbers that will be used to draw a shape. The first number being the number of sides of the shape, and the second the length of each side.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+n/a
 
 ## REFERENCES:
- < List any outside resources used >
+Just class notes.
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+n/a
